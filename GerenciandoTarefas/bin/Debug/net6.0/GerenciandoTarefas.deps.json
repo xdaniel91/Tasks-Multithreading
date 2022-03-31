@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GerenciandoTarefas/1.0.0": {
+        "runtime": {
+          "GerenciandoTarefas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciandoTarefas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

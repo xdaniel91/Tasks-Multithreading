@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\bin\Debug\net6.0\TarefasContinuacao.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\bin\Debug\net6.0\TarefasContinuacao.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\bin\Debug\net6.0\TarefasContinuacao.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\bin\Debug\net6.0\TarefasContinuacao.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\bin\Debug\net6.0\ref\TarefasContinuacao.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\bin\Debug\net6.0\TarefasContinuacao.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\ref\TarefasContinuacao.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.genruntimeconfig.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefasContinuacao\obj\Debug\net6.0\TarefasContinuacao.csproj.AssemblyReference.cache

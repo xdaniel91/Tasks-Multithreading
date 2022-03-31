@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ranw5nO03Ykwp3Wp3KuBu08faOMa5RAabGoihpz5NClVmDViR2KDZ2FI2DKtk/BX0lp14RG5H0UR0llHeiVZfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielRodriguesCarva\\source\\repos\\Multithreading\\PLINQ\\PLINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielRodriguesCarva\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

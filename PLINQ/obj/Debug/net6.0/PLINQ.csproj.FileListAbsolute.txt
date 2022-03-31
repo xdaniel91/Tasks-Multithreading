@@ -1,0 +1,17 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\PLINQ.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\PLINQ.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\PLINQ.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\PLINQ.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\ref\PLINQ.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\PLINQ.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\ref\PLINQ.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.genruntimeconfig.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\PLINQ\obj\Debug\net6.0\PLINQ.csproj.CopyComplete

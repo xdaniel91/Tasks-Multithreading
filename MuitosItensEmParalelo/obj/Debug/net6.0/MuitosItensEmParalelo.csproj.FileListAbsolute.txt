@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\bin\Debug\net6.0\MuitosItensEmParalelo.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\bin\Debug\net6.0\MuitosItensEmParalelo.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\bin\Debug\net6.0\MuitosItensEmParalelo.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\bin\Debug\net6.0\MuitosItensEmParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\bin\Debug\net6.0\ref\MuitosItensEmParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\bin\Debug\net6.0\MuitosItensEmParalelo.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\ref\MuitosItensEmParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\MuitosItensEmParalelo\obj\Debug\net6.0\MuitosItensEmParalelo.genruntimeconfig.cache

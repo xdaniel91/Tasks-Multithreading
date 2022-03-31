@@ -1,0 +1,14 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\bin\Debug\net6.0\Parallel.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\bin\Debug\net6.0\Parallel.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\bin\Debug\net6.0\Parallel.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\bin\Debug\net6.0\Parallel.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\bin\Debug\net6.0\ref\Parallel.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\bin\Debug\net6.0\Parallel.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\ref\Parallel.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.genruntimeconfig.cache

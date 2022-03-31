@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\bin\Debug\net6.0\InterromperLoopParalelo.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\bin\Debug\net6.0\InterromperLoopParalelo.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\bin\Debug\net6.0\InterromperLoopParalelo.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\bin\Debug\net6.0\InterromperLoopParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\bin\Debug\net6.0\ref\InterromperLoopParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\bin\Debug\net6.0\InterromperLoopParalelo.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\ref\InterromperLoopParalelo.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\InterromperLoopParalelo\obj\Debug\net6.0\InterromperLoopParalelo.genruntimeconfig.cache
