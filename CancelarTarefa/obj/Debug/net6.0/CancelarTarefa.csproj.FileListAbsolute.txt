@@ -1,0 +1,14 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\bin\Debug\net6.0\CancelarTarefa.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\bin\Debug\net6.0\CancelarTarefa.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\bin\Debug\net6.0\CancelarTarefa.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\bin\Debug\net6.0\CancelarTarefa.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\bin\Debug\net6.0\ref\CancelarTarefa.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\bin\Debug\net6.0\CancelarTarefa.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\ref\CancelarTarefa.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\CancelarTarefa\obj\Debug\net6.0\CancelarTarefa.genruntimeconfig.cache

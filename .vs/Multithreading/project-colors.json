@@ -30,7 +30,42 @@
       "ProjectGuid": "d2960397-49db-4272-9ef5-549c6a49b923",
       "DisplayName": "GerenciandoTarefas",
       "ColorIndex": 4
+    },
+    "44f58121-7c6b-427b-891d-7cbcbe302f7c": {
+      "ProjectGuid": "44f58121-7c6b-427b-891d-7cbcbe302f7c",
+      "DisplayName": "TarefasContinuacao",
+      "ColorIndex": 5
+    },
+    "455179a1-c5b1-4dee-80c6-e4b96696b2af": {
+      "ProjectGuid": "455179a1-c5b1-4dee-80c6-e4b96696b2af",
+      "DisplayName": "TarefaMaeFilhas",
+      "ColorIndex": 6
+    },
+    "1c9a5b88-d342-4a3f-8692-cd0719c851b1": {
+      "ProjectGuid": "1c9a5b88-d342-4a3f-8692-cd0719c851b1",
+      "DisplayName": "TrabalhandocomThreads",
+      "ColorIndex": 7
+    },
+    "b956d700-a9a3-4cf4-970e-53e77578be84": {
+      "ProjectGuid": "b956d700-a9a3-4cf4-970e-53e77578be84",
+      "DisplayName": "Interface",
+      "ColorIndex": 8
+    },
+    "0ed1926e-2d85-49c8-b599-20153793c2a4": {
+      "ProjectGuid": "0ed1926e-2d85-49c8-b599-20153793c2a4",
+      "DisplayName": "GerenciarDadosCollections",
+      "ColorIndex": 9
+    },
+    "de3d41c6-7e7e-4edc-8ced-fbb6c9c3480e": {
+      "ProjectGuid": "de3d41c6-7e7e-4edc-8ced-fbb6c9c3480e",
+      "DisplayName": "ImplementarBloqueio",
+      "ColorIndex": 10
+    },
+    "73e3e811-2c81-4136-99e2-4c4f99bc3a26": {
+      "ProjectGuid": "73e3e811-2c81-4136-99e2-4c4f99bc3a26",
+      "DisplayName": "CancelarTarefa",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 12
 }

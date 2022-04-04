@@ -12,3 +12,4 @@ C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Deb
 C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\ref\Parallel.dll
 C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.pdb
 C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.genruntimeconfig.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Multithreading\obj\Debug\net6.0\Parallel.csproj.AssemblyReference.cache

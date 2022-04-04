@@ -1,0 +1,14 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\bin\Debug\net6.0\ThreadSafe.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\bin\Debug\net6.0\ThreadSafe.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\bin\Debug\net6.0\ThreadSafe.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\bin\Debug\net6.0\ThreadSafe.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\bin\Debug\net6.0\ref\ThreadSafe.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\bin\Debug\net6.0\ThreadSafe.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ref\ThreadSafe.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ThreadSafe\obj\Debug\net6.0\ThreadSafe.genruntimeconfig.cache

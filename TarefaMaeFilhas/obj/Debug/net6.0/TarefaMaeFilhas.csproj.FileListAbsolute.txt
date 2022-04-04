@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\bin\Debug\net6.0\TarefaMaeFilhas.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\bin\Debug\net6.0\TarefaMaeFilhas.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\bin\Debug\net6.0\TarefaMaeFilhas.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\bin\Debug\net6.0\TarefaMaeFilhas.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\bin\Debug\net6.0\ref\TarefaMaeFilhas.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\bin\Debug\net6.0\TarefaMaeFilhas.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\ref\TarefaMaeFilhas.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.genruntimeconfig.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\TarefaMaeFilhas\obj\Debug\net6.0\TarefaMaeFilhas.csproj.AssemblyReference.cache

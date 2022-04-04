@@ -1,0 +1,15 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\bin\Debug\net6.0\ImplementarBloqueio.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\bin\Debug\net6.0\ImplementarBloqueio.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\bin\Debug\net6.0\ImplementarBloqueio.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\bin\Debug\net6.0\ImplementarBloqueio.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\bin\Debug\net6.0\ref\ImplementarBloqueio.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\bin\Debug\net6.0\ImplementarBloqueio.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ref\ImplementarBloqueio.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\ImplementarBloqueio\obj\Debug\net6.0\ImplementarBloqueio.genruntimeconfig.cache

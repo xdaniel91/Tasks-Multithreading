@@ -1,0 +1,17 @@
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\bin\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.Form1.resources
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\DanielRodriguesCarva\source\repos\Multithreading\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache

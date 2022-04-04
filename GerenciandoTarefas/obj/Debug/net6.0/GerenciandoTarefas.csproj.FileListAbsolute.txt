@@ -12,4 +12,3 @@ C:\Users\DanielRodriguesCarva\source\repos\Multithreading\GerenciandoTarefas\obj
 C:\Users\DanielRodriguesCarva\source\repos\Multithreading\GerenciandoTarefas\obj\Debug\net6.0\ref\GerenciandoTarefas.dll
 C:\Users\DanielRodriguesCarva\source\repos\Multithreading\GerenciandoTarefas\obj\Debug\net6.0\GerenciandoTarefas.pdb
 C:\Users\DanielRodriguesCarva\source\repos\Multithreading\GerenciandoTarefas\obj\Debug\net6.0\GerenciandoTarefas.genruntimeconfig.cache
-C:\Users\DanielRodriguesCarva\source\repos\Multithreading\GerenciandoTarefas\obj\Debug\net6.0\GerenciandoTarefas.csproj.AssemblyReference.cache
